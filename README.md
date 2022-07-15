@@ -147,7 +147,7 @@ width: 800px;
 
 <!-- フッタ -->
 <footer>
-Copyright 2022/07/16 S.Hada
+<span class="white">Copyright 2022/07/16 S.Hada</span>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
