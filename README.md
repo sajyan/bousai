@@ -147,7 +147,7 @@ width: 800px;
 
 <!-- フッタ -->
 <footer>
-<span class="white">Copyright 2022/07/16 S.Hada                   背景は自宅近くの紫陽花</span>
+<span class="white">Copyright 2022/07/16 S.Hada、背景は自宅近くの紫陽花</span>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
